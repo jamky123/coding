@@ -1,2 +1,2 @@
 # coding
-coding in pt2
+hi there this is some mini game code using graphic.h at c++
